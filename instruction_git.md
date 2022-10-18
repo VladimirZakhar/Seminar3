@@ -16,3 +16,14 @@
 
     git status
 
+git add
+git commit
+git commit -a
+git commit -m
+git commit -am
+git log
+git log --oneline
+git log --oneline --all
+git checkout
+git checkout master
+git diff
