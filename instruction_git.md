@@ -45,7 +45,13 @@ git commit -am
 
     git log
 
-git log --oneline
+## Параметры для удобного просмотра лога
+
+ Выводит сокращённые данные коммита (в виде одной строки)
+
+    git log --oneline
+
+
 
 git log --oneline --all
 
