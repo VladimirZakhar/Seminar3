@@ -35,11 +35,22 @@
     git commit -m
 
 
-git commit -m
+git commit -a
+
 git commit -am
-git log
+
+## Проверка истории Git
+
+Команда отображает список логов коммита
+
+    git log
+
 git log --oneline
+
 git log --oneline --all
+
 git checkout
+
 git checkout master
+
 git diff
