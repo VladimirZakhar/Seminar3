@@ -28,8 +28,13 @@
 
     git commit
 
+## Добавление описания изменений в команду git commit
 
-git commit -a
+Командой git commit –m “changes message”. Флаг –m вносит описание изменений
+
+    git commit -m
+
+
 git commit -m
 git commit -am
 git log
