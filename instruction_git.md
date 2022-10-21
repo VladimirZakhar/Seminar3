@@ -107,5 +107,5 @@
     
 ## Конфликт изменений
 
-A change conflict happens when two people change the same page at the same time. To understand what a change conflict is about, have a look at the following situation: Alan clicks on "Change" to make changes to a page. Jane clicks on "Change" on the same page while Alan is making changes to the page.
+    A change conflict happens when two people change the same page at the same time. To understand what a change conflict is about, have a look at the following situation: Alan clicks on "Change" to make changes to a page. Jane clicks on "Change" on the same page while Alan is making changes to the page.
 
