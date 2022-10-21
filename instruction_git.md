@@ -107,5 +107,5 @@
     
 ## Конфликт изменений
 
-    A change conflict happens when two people change the same page at the same time. To understand what a change conflict is about, have a look at the following situation: Alan clicks on "Change" to make changes to a page. Jane clicks on "Change" on the same page while Alan is making changes to the page.
+_**Обычно конфликты возникают, когда два человека изменяют одни и те же строки в файле или один разработчик удаляет файл, который в это время изменяет другой разработчик. В таких случаях Git не может автоматически определить, какое изменение является правильным. Конфликты затрагивают только того разработчика, который выполняет слияние, остальная часть команды о конфликте не знает. Git помечает файл как конфликтующий и останавливает процесс слияния. В этом случае ответственность за разрешение конфликта несут разработчики.**_
 
